@@ -1,0 +1,27 @@
+{
+  "name": "dynamic-bootstrap-responsive-tabs",
+  "version": "0.0.1",
+  "authors": [
+    "iamist <vicentechristian@gmail.com>"
+  ],
+  "description": "An extension for gabrieltomescu/bootstrap-responsive-tabs to enable adding of new tab.",
+  "main": "dist/dynamic-bootstrap-responsive-tabs.js",
+  "keywords": [
+    "dynamic",
+    "boostrap",
+    "responsive",
+    "tabs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/istian/dynamic-bootstrap-responsive-tabs.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-responsive-tabs": "*"
+  }
+}
